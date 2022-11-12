@@ -7,12 +7,12 @@
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/110972269/201478487-234fb590-4b3a-4033-b974-9be145de5d55.png)
 
-- 🔗 [Demo Project]( https://amir-yadavar.github.io/Character-Maker/)
+- 🔭 [Demo Project]( https://amir-yadavar.github.io/Character-Maker/)
 
-- 👨‍💻 Developed by Amir Yadavar
+- ⏳ Created by Amir Yadavar
 
-- 🤖 Technologies Used - Html , Css , js
+- 🔧 Included with : Html , Css , js
 
-- 🕵🏻‍♀️ Role - Frontend
+- 🛖 Side - Frontend
 
-- 📫 How to reach me : with my [instagram](https://instagram.com/amir_yadavar_?igshid=YmMyMTA2M2Y=) and [linkedin](https://www.linkedin.com/in/amir-yadavar-269904242/) and amiresya@gmail.com
+- ✌️ How to reach me : with my [instagram](https://instagram.com/amir_yadavar_?igshid=YmMyMTA2M2Y=) and [linkedin](https://www.linkedin.com/in/amir-yadavar-269904242/) and amiresya@gmail.com
